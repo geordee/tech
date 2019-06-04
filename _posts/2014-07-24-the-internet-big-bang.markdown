@@ -19,5 +19,4 @@ That roughly represents the growth of Internet in the past 15 years.
 
 Considering the fact that the Internet Big Bang is probably still in the early stages, and that it is a big bang - growing at exponential rates - we are yet to face the magnitude of "big".
 
-* https://plus.google.com/+UrsH%C3%B6lzle/posts/VGwMnY3oUSY
-* http://americanhistory.si.edu/press/fact-sheets/google-corkboard-server-1999
+* https://americanhistory.si.edu/press/fact-sheets/google-corkboard-server-1999
