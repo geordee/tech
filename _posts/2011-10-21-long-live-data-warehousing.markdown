@@ -4,7 +4,7 @@ title:      "Data Warehousing is Dead, Long Live Data Warehousing"
 date:       2011-10-21 12:38:04
 author:     geordee
 categories: dw
-tags:       
+tags:
 ---
 
 Data Warehousing has turned over a new leaf. Analysts are thinking beyond databases and ETL tools. Vendors are talking loud about their Big Data solutions, Hadoop integration and NoSQL products more than ever.

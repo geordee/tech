@@ -4,7 +4,7 @@ title:      "Identification, Discovery and Distribution of Apps"
 date:       2015-08-22 10:19:18
 author:     geordee
 categories: data apps internet mobile
-tags:       
+tags:
 ---
 
 Sometime back I was building an online service to discover food. As we were on it, we also found many such services springing up all around us. We had a catchy URL using the generic top level domain “menu”. The product is Has.Menu, and in Dubai the URL would be dubai.has.menu.

@@ -4,7 +4,7 @@ title:      "Enterprise Architecture & Economics"
 date:       2019-06-06 12:46:23
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 TOGAF describes Enterprise Architecture as a process, something to do. It optimizes the _legacy of processes_ into an _integrated environment_, to _support the delivery_ of the business strategy.  It then recommends how to practice enterprise architecture, using the TOGAF framework.

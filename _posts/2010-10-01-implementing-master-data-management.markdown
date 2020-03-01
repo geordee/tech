@@ -4,7 +4,7 @@ title:      "Implementing Master Data Management"
 date:       2010-10-01 19:00:14
 author:     geordee
 categories: mdm
-tags:       
+tags:
 ---
 
 Software applications were process-oriented for a long time. With new technologies and architectures being introduced with tangible benefits at rapid pace, lifespan of software applications have considerably reduced. Mergers and acquisitions, tool/technology rationalization efforts, competitive business practices have all increased the likelihood of shortening application lifespan. However, one thing remains fairly constant – data. Organizations now consider their data as an enterprise-asset, and more so with master data which is the information about an organization’s physical and realizable assets.

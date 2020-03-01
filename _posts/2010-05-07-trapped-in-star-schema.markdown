@@ -4,7 +4,7 @@ title:      "Trapped in Star Schema"
 date:       2010-05-07 18:55:37
 author:     geordee
 categories: bi dw
-tags:       
+tags:
 ---
 
 Fact-less facts – an oxymoron. We had a requirement to track assignments of different individuals to different programs. At any point in time we should be able to retrieve the counts of assignments by various characteristics including the assignment status. Fact-less facts, obviously.

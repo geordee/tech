@@ -4,7 +4,7 @@ title:      "Oracle Spend Classification"
 date:       2011-12-16 10:09:23
 author:     geordee
 categories: bi data-mining
-tags:       
+tags:
 ---
 
 As information technology progresses, computers become more capable to perform activities which requires not just basic binary logic, but approximation, correlation and prediction. Such implementations help us teach computers to perform large and complex tasks which otherwise require an intelligent supervision. In common technological parlance, this is known as machine learning or knowledge discovery. In relation with data warehousing, we know this as data mining, which is a prominent technique for knowledge discovery.

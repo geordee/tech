@@ -4,7 +4,7 @@ title:      "The Perfect Solution"
 date:       2014-09-28 22:12:58
 author:     geordee
 categories: projects
-tags:       
+tags:
 ---
 
 The perfect solution does not exist. A working solution does. Especially in the case of software systems.

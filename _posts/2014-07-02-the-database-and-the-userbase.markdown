@@ -4,7 +4,7 @@ title:      "The Database and The Userbase"
 date:       2014-07-02 13:18:00
 author:     geordee
 categories: data apps
-tags:       
+tags:
 ---
 
 In the Internet world there are only two valuable assets - the database and the userbase. And both are hard to acquire. Recently, we have been struggling to create formidable databases in certain domains, and the cost to build and maintain those are pretty high. Even with the sophistication of technology that are practically available and reachable, applied on freely available - "public domain" - data, I am hardly satisfied with the quality of results (I being the perfectionist part of me).

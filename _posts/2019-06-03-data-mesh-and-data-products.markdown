@@ -4,7 +4,7 @@ title:      "Data Mesh and Data Products"
 date:       2019-06-03 13:44:02
 author:     geordee
 categories: data services distributed mesh
-tags:       
+tags:
 ---
 
 The progression of technology is like the oscillation of a pendulum. We see the trends swaying towards the faster, better, newer aspects of technology. Earlier we had data processing systems in every offices. One of the earlier use cases was to automate spreadsheets. Then the central offices wanted a copy of data from every branches. PCs were and common client-server computing was in vogue. When Internet took over we were back to browser-based thin clients. The branch office servers were eliminated and we have central ERPs now.

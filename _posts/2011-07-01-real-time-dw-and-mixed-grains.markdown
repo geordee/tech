@@ -4,7 +4,7 @@ title:      "Real-time Data Warehouse & Mixed Grains"
 date:       2011-07-01 22:58:31
 author:     geordee
 categories: bi dw
-tags:       
+tags:
 ---
 
 Increasingly, the trends point to real-time data warehouses. There are quite a lot of discussions on what is meant by real-time and the purpose of real-time data warehouses. Whatever it may be, the very fact that analysts, and hence enterprises, are increasingly interested in real-time data warehouses demands us to think about how to architect such a data warehouse.

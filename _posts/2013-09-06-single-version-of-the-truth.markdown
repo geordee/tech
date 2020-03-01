@@ -4,7 +4,7 @@ title:      "Single Version Of The Truth?"
 date:       2013-09-06 23:06:39
 author:     geordee
 categories: bi dw
-tags:       
+tags:
 ---
 
 One of the often-quoted phrase, almost a cliche, in Information Management space is _single version of the truth_. In the past I have quoted to justify or sell master data management and enterprise data warehousing solutions. Off late, I have started looking objectively on the business necessities of single version of truth. Partly, this is due to the observation that not all business scenarios require a single version of the truth.

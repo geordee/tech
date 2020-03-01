@@ -4,7 +4,7 @@ title:      "Crossing the Golden Gate"
 date:       2012-12-12 01:01:12
 author:     geordee
 categories: dw
-tags:       
+tags:
 ---
 
 I have been playing around with GoldenGate for a few months now. The more challenges I face, the more I like the features and capabilities of this tool. Except for a few bugs introduced in the recent versions (typical in the Oracle products I have worked on), GoldenGate proved a solid replication and changed data capture tool. Now, "solid" should not be understood as rigid; GoldenGate is quite flexible in the way it can be configured.

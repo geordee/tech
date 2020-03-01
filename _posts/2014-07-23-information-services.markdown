@@ -4,7 +4,7 @@ title:      "Information Services"
 date:       2014-07-23 11:17:28
 author:     geordee
 categories: data
-tags:       
+tags:
 ---
 
 I have been thinking about writing a post with the title Information Services. That is when I got a notification on Code Halos, a new book by Malcolm Frank, Paul Roehrig, and Ben Pring - three Cognizant consultants studying the Future of Work and about Millennial Workforce. I quickly went through the book and the core idea of Code Halo is something related to what I imagined as Information Services.

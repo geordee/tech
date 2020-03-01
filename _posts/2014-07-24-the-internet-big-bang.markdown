@@ -4,7 +4,7 @@ title:      "The Internet Big Bang"
 date:       2014-07-24 20:11:15
 author:     geordee
 categories: internet
-tags:       
+tags:
 ---
 
 Today Urs Hölzle, Senior Vice President of technical infrastructure at Google wrote a post in Google+ about the corkboard rack/servers Google built in 1999. From the post and the comments we can make some interesting inferences.

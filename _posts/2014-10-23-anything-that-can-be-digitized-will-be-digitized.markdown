@@ -4,7 +4,7 @@ title:      "Anything That Can Be Digitized Will Be Digitized"
 date:       2014-10-23 18:03:44
 author:     geordee
 categories: data
-tags:       
+tags:
 ---
 
 Electronic devices had first made computing easier. Hence the name computers. Increasingly, we are relying on electronic devices for managing information - to capture, store, analyze and retrieve. Not surprisingly, we have the term information technology.

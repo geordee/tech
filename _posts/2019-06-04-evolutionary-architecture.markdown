@@ -4,7 +4,7 @@ title:      "Evolutionary Architecture"
 date:       2019-06-04 10:17:01
 author:     geordee
 categories: blog thoughts
-tags:       
+tags:
 ---
 
 Information and Communications Technology is an engineering discipline. Compared to other engineering disciplines, computer science and software are fairly modern. So, they end up loaning words from the more traditional disciplines. We don't use the word architecture much in mechanical engineering, or electrical engineering. The most coveted word is design in those fields. But, when it comes to integrated circuits or information technology, we have architectures. The terms are analogous to building structures like buildings or systems like towns.

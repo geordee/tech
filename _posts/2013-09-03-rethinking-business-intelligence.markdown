@@ -4,7 +4,7 @@ title:      "Rethinking Business Intelligence"
 date:       2013-09-03 13:42:34
 author:     geordee
 categories: bi data-mining dw
-tags:       
+tags:
 ---
 
 The only constant is change is ever so true with Information Technology. IT systems and solutions are created in the context of the evolutionary period in IT resources. From a number of implementations we derive technical know-how, patterns, best practices, and wisdom. Sometimes the evolutionary cycles take us to newer possibilities that invalidate the current common wisdom. So is with business intelligence.

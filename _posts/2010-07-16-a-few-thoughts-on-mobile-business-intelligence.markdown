@@ -4,7 +4,7 @@ title:      "A Few Thoughts on Mobile Business Intelligence"
 date:       2010-07-16 18:58:58
 author:     geordee
 categories: bi
-tags:       
+tags:
 ---
 
 As the traditional business intelligence tools and techniques get matured, innovations take place, firstly to retain competitive advantage, and then to push the bar further, bringing better capabilities and usefulness. A few offshoots of business intelligence in the past few years were business analytics, operational business intelligence, pervasive business intelligence, interactive dashboards and of course, as the title implies, mobile business intelligence.

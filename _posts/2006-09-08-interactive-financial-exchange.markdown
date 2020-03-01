@@ -4,7 +4,7 @@ title:      "Interactive Financial Exchange"
 date:       2006-09-08 19:01:15
 author:     geordee
 categories: eft
-tags:       
+tags:
 ---
 
 Evolution in any form is to bring in complexity to the system. It is universal and inevitable. Now we are talking about banking industry, its language and the messaging systems that form the backbone of the industry.

@@ -4,7 +4,7 @@ title:      "Dimensional Modeling and Semantic Relationships"
 date:       2010-06-10 18:57:29
 author:     geordee
 categories: dw
-tags:       
+tags:
 ---
 
 Modeling data warehouses is sometimes a contentious issue. When it comes to data warehouse design there are a few schools of thought and many sub-schools! One of the often-heard discussions is the different between dimensional modeling and entity-relationship modeling. It is interesting to hear how dimensional modeling and de-normalization are different from modeling transactional systems.

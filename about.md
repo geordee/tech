@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-> From Tandem NonStop, through Business Intelligence, till Ruby on Rails  
+> From Tandem NonStop, through Business Intelligence, till Ruby on Rails
 > More adventure awaits ahead.
 
 A Civil Engineer by qualification, I started my career in software in 1999.

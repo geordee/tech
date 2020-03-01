@@ -4,7 +4,7 @@ title:      "Yes to NoSQL!"
 date:       2010-09-04 18:59:37
 author:     geordee
 categories: dw
-tags:       
+tags:
 ---
 
 I have been thinking about Workaday’s architecture, following Curt Monash’s post The Workday architecture — a new kind of OLTP software stack. What struck me most is the approach towards data storage. They boldy decided to forgo the conventional approach and is quite successful in that. Not that there is no comparable approaches in the past, the Curt’s coverage emphasizes the recent trend of applications stepping into the new territory commonly known as NoSQL.

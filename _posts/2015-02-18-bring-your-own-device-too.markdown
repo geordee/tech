@@ -4,7 +4,7 @@ title:      "Bring Your Own Device, Too"
 date:       2015-02-18 09:03:02
 author:     geordee
 categories: mobile apps
-tags:       
+tags:
 ---
 
 Some years back I was in Australia. As we went around the city, I couldn't help but notice BYO written in front of most of the restaurants. It's the shortened version of Bring Your Own Bottle of wine or beer. These days, we hear a lot about BYOD, or Bring Your Own Device. In corporate world, it means the employees can bring their own phone, tablet or laptop to work, and get it integrated to the corporate IT infrastructure.

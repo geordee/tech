@@ -4,7 +4,7 @@ title:      "It's The Data, Stupid!"
 date:       2014-06-13 18:01:08
 author:     geordee
 categories: data apps
-tags:       
+tags:
 ---
 
 We started our efforts to build software products a few months back. Soon we churned out some small applications, as part of our training program. The product is a small library management system, built on Ruby on Rails, the open source way. Soon we started getting enquiries, from big and small libraries who are on the way to computerization.

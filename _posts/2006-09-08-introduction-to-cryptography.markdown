@@ -4,7 +4,7 @@ title:      "Introduction to Cryptography"
 date:       2006-09-08 19:01:53
 author:     geordee
 categories: eft
-tags:       
+tags:
 ---
 
 Cryptography was a subject of interest among the Government agencies, military, banks and multinational corporations, until recently. The research and development in this area was mainly aimed at delivering the vital messages without being understood by the interceptors. As we move into an information society, now cryptography relates to everyones life. It has become one of the main tools of privacy, trust, access control, electronic payments, corporate security and countless other fields.

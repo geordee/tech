@@ -4,7 +4,7 @@ title:      "Only One Miracle At A Time"
 date:       2014-06-16 11:02:37
 author:     geordee
 categories: projects
-tags:       
+tags:
 ---
 
 Over-engineering is something every designer, every architect should be beware about. In the essay The Second-system Effect, Frederick Brooks points out one common pitfall - when the architect designs his second system, it is the most dangerous system he will design, because he will try to incorporate everything that he missed in the first system. I have observed this to be very true in many occasions. Over a period, architects get out of this. Slowly they tend to build balanced, and mostly conservative systems as they age in the profession.

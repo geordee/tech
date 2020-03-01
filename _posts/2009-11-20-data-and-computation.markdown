@@ -4,7 +4,7 @@ title:      "Data and Computation"
 date:       2009-11-20 17:15:21
 author:     geordee
 categories: dw
-tags:       
+tags:
 ---
 
 Business Intelligence (BI) has matured in the past 20 years or so of it’s existence. There has been a lot of developments in software and information technology during this period. One of the significant change is that computation has become cheaper than storage.

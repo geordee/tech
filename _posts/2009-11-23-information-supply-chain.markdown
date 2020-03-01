@@ -4,7 +4,7 @@ title:      "Information Supply Chain"
 date:       2009-11-23 18:53:32
 author:     geordee
 categories: bi
-tags:       
+tags:
 ---
 
 This is not a new thought. Over the years many people have thought about the information moving within an enterprise and created analogies to supply chains. This is an attempt to think independently on information supply chain.

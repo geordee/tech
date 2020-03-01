@@ -4,7 +4,7 @@ title:      "Data Integration Patterns"
 date:       2010-06-22 18:58:23
 author:     geordee
 categories: dw
-tags:       
+tags:
 ---
 
 Gregor Hohpe and Bobby Woolf have written about enterprise integration patterns for messaging solutions, many years back. It is interesting to see that there is hardly any authoritative work like EI Patterns in Data Integration world. There are communities working SOA patterns, already.

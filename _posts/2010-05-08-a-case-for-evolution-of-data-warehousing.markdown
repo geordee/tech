@@ -4,7 +4,7 @@ title:      "A Case for Evolution of Data Warehousing"
 date:       2010-05-08 18:56:13
 author:     geordee
 categories: dw
-tags:       
+tags:
 ---
 
 Data Warehousing has come a long way. The evolution of technology – especially in storage and processing – causes the technical solutions to evolve as well. It is time to revisit the traditional techniques of data warehousing, right from the data modeling aspects.

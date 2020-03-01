@@ -4,7 +4,7 @@ title:      "TIBCO, Integration, Visualization"
 date:       2009-11-26 18:54:20
 author:     geordee
 categories: bi
-tags:       
+tags:
 ---
 
 TIBCO is an established Enterprise Application Integration product. Enterprise Application Integration came out from middleware technologies and right now about to get overridden by Service-oriented Architecture (SOA). In a Service-oriented Architecture communication between various services are fundamental and most of the Enterprise Application Integration patterns will be covered by various components of SOA. Will TIBCO then be an SOA platform? Yes. TIBCO has repositioned itself as an SOA platform already.

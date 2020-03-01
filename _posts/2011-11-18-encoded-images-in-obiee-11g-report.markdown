@@ -4,7 +4,7 @@ title:      "Encoded Images in OBIEE 11g Report"
 date:       2011-11-18 19:36:03
 author:     geordee
 categories: bi
-tags:       
+tags:
 ---
 
 Business Intelligence tools are not omnipotent. Different tools have different capabilities, and once the tool selection is over we generally live with what the tool can offer. In this context, I often suggest that the requirements gathering can be done in a tools context, both to ensure we can achieve what we want and to best utilize the tools capabilities. Once in a while, clients express a requirement that is just beyond the tools capabilities and we wish we could somehow push the boundaries a little.
